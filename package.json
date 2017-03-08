@@ -1,6 +1,6 @@
 {
   "name": "aller-ng",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Boilerplate project for Angular applications using almost any compiling language",
   "main": "index.js",
   "scripts": {
